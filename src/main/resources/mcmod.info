@@ -1,0 +1,19 @@
+[
+{
+  "modid": "AppleTimes",
+  "name": "AppleTimes",
+  "description": "AppleTimes",
+  "version": "1.0",
+  "credits": "if(open this){echo sleep sound#mie mie mie}",
+  "logoFile": "/java.png",
+  "mcversion": "1.7.10",
+  "url": "http://www.mcbbs.net",
+  "updateUrl": "",
+  "authors": [ "qianniancc" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "qianniancc"
+  ]
+}
+]

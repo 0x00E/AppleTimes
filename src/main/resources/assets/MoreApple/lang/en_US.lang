@@ -1,0 +1,26 @@
+#powered by qianniancc
+item.RandomApple.name=迷一样的苹果
+achievement.moreAppleACHV=TNT苹果
+item.GreenApple.name=绿油油的苹果
+item.TNTApple.name=TNT苹果
+item.PinkApple.name=粉色的苹果
+item.DieApple.name=死亡果
+item.ShiApplePro.name=强化的石头苹果
+achievement.moreAppleACHV.desc=获得一个TNT苹果
+item.BlackApple.name=黑暗苹果
+item.ShiApple.name=石头苹果
+item.PurpleApple.name=紫色的苹果
+item.ColorApple.name=彩色的苹果
+item.BlueApple.name=蓝色的苹果
+item.ApplePickaxe.name=苹果稿
+item.AppleAxe.name=苹果斧
+item.AppleHoe.name=苹果锄
+item.AppleSword.name=苹果剑
+item.AppleShovel.name=苹果锹
+item.applehelmet.name=苹果头盔
+item.applechestplate.name=苹果胸甲
+item.appleleggings.name=苹果裤子
+item.appleboots.name=苹果靴子
+item.CrippledApple.name=被咬一口的苹果
+itemGroup.tabmoreAppleTab=苹果时代
+item.Iphone.name=苹果手机

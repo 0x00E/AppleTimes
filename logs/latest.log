@@ -1,0 +1,45 @@
+[14:11:49] [main/INFO]: Setting user: Player343
+[14:11:50] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:11:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:moreApple
+[14:11:59] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MoreApple/ in K:\Workspace\AppleTimes\bin
+[14:11:59] [Sound Library Loader/INFO]: Sound engine started
+[14:12:00] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[14:12:00] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[14:12:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:moreApple
+[14:12:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MoreApple/ in K:\Workspace\AppleTimes\bin
+[14:12:01] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[14:12:01] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[14:12:02] [Sound Library Loader/INFO]: Sound engine started
+[14:12:05] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[14:12:05] [Server thread/INFO]: Generating keypair
+[14:12:06] [Server thread/INFO]: Preparing start region for level 0
+[14:12:07] [Server thread/INFO]: Preparing spawn area: 88%
+[14:12:07] [Server thread/INFO]: Changing view distance to 2, from 10
+[14:12:08] [Server thread/INFO]: Player343[local:E:5930da9f] logged in with entity id 472 at (-22.633334209066852, 65.10408037809304, 275.8405009801881)
+[14:12:08] [Server thread/INFO]: Player343 加入了游戏
+[14:12:15] [Server thread/INFO]: Saving and pausing game...
+[14:12:15] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[14:12:15] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[14:12:15] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[14:12:20] [Server thread/INFO]: Saving and pausing game...
+[14:12:20] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[14:12:20] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[14:12:20] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[14:12:21] [Client thread/INFO]: [CHAT] MoreApple Version 1.0
+[14:12:22] [Client thread/INFO]: [CHAT] MoreApple Version 1.0
+[14:12:22] [Client thread/INFO]: [CHAT] MoreApple Version 1.0
+[14:12:23] [Server thread/INFO]: Saving and pausing game...
+[14:12:23] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[14:12:23] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[14:12:23] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[14:12:42] [Server thread/INFO]: Saving and pausing game...
+[14:12:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[14:12:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[14:12:42] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[14:12:42] [Server thread/INFO]: Stopping server
+[14:12:42] [Server thread/INFO]: Saving players
+[14:12:42] [Server thread/INFO]: Saving worlds
+[14:12:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Overworld
+[14:12:42] [Server thread/INFO]: Saving chunks for level '新的世界'/Nether
+[14:12:42] [Server thread/INFO]: Saving chunks for level '新的世界'/The End
+[14:12:51] [Client thread/INFO]: Stopping!
